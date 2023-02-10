@@ -1,12 +1,12 @@
 {
-    "name": "static-site",
+    "name": "Professional README Generator",
     "version": "1.0.0",
-    "description": "",
+    "description": "When creating a project on GitHub, it is important to have a quality README file.",
     "main": "index.js",
     "scripts": {
       "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "author": "",
+    "author": "Matin Tavacoli",
     "license": "ISC",
     "dependencies": {
       "inquirer": "^6.3.1"
