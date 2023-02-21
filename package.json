@@ -4,11 +4,11 @@
     "description": "When creating a project on GitHub, it is important to have a quality README file.",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "Matin Tavacoli",
     "license": "ISC",
     "dependencies": {
-      "inquirer": "^6.3.1"
+        "inquirer": "^8.2.4"
     }
-  }
+}
