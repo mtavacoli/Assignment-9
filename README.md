@@ -24,3 +24,7 @@ WHEN I click on the links in the Table of Contents
 THEN I am taken to the corresponding section of the README
 
 Using the command line, a user can create a professional README by inputting answers to questions when prompted.
+
+Walkthrough Video:
+https://drive.google.com/file/d/1lEAGq_bANHBN60-z-VLNdUU-7pk7atpw/view
+
